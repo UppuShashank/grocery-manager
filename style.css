@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    background: #eef2f3;
+}
+
+.container {
+    width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+}
+
+input, select {
+    margin: 5px;
+    padding: 6px;
+}
+
+button {
+    padding: 7px 12px;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 0;
+}
